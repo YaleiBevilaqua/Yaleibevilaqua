@@ -1,8 +1,8 @@
 <h1 align="left" class="heading-element" dir="auto">Hi 👋, I'm Yalei Bevilaqua</h1>
 
 
-<li>I’m currently learning Software Development, Web Development and Automation</li>
-<li>Just started as a freshman in Information Systems at UNOESC Chapecó</li>
+<li>I have been studying programming since 2023, focusing in backend and databases.</li>
+<li></li>
 
 
 <h2 align="left">Techs</h2>
