@@ -2,7 +2,7 @@
 
 
 <li>I have been studying programming since 2023, focusing in backend and databases.</li>
-<li></li>
+<li>Starting a bachelor's degree in information systems</li>
 
 
 <h2 align="left">Techs</h2>
