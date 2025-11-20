@@ -1,6 +1,9 @@
 <h1 align="left" class="heading-element" dir="auto">Hi 👋, I'm Yalei Bevilaqua</h1>
 
 
+<li>I’m currently learning Software Development, Web Development and Automation</li>
+<li>Just started as a freshman in Information Systems at UNOESC Chapecó</li>
+
 
 <h2 align="left">Techs</h2>
 
